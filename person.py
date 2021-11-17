@@ -1,0 +1,12 @@
+print ('Gegevens')
+Name = input    ('Naam      :')
+Adress = input  ('Adres     :')
+Post = input    ('Postcode  :')
+Place = input   ('Woonplaats:')
+
+print ('----------------------------------------------------')  
+print ('|  Naam      : ' + Name)                
+print ('|  Adres     : ' + Adress)        
+print ('|  Postcode  : ' + Post)                         
+print ('|  Woonplaats: ' + Place)                          
+print (' ----------------------------------------------------')
